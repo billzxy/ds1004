@@ -1,0 +1,23 @@
+*   a2a3af6 (HEAD, AC) Merge branch 'BC' into AC
+|\  
+| *   aba2e5d (BC) Merge branch 'B1' into BC
+| |\  
+| | * c81fdb3 (B1) b1 commit
+| * | 996d26d BC commit
+* | |   de598f3 merge A2 to AC
+|\ \ \  
+| |/ /  
+| * |   bc586cd (A2) resolved a2 b2
+| |\ \  
+| | * | 1004394 (B2) b2
+| | |/  
+| | * cafb5f9 (B) b 2nd commit
+| | * 285ad0e commit B
+| * | fa41ded a2 reset
+| * | b6677fb A2 commit
+* | | e1b006d AC commit
+* | | 9cc3afb (A1) A1 commit
+|/ /  
+* | def6c14 (A) commit A
+|/  
+* 8bd4c61 (master) initial commit
