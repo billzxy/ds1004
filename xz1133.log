@@ -1,3 +1,29 @@
+A1 branch
+branch a1
+B branch
+b2 branch
+A1 branch B branch
+branch a2 brach b1
+*   8566c19 resolve conflict when merging b2 to a1
+|\  
+| *   bb55117 resove conflict when merging a2 to b2
+| |\  
+| * | f7122db brach b2 commit
+* | |   0af8fbd resolve conflict when merging a2 to a1
+|\ \ \  
+| | |/  
+| |/|   
+| * |   99722e3 resolve conflict
+| |\ \  
+| | * | 0d0d657 branch b1 commit
+| | |/  
+| | * afa9a1a B Branch commit
+| * | 81551d1 branch a2 commit
+* | | 4e6a9a2 branch a1 commit
+|/ /  
+* | ac70765 branch A commit
+|/  
+* c3d148e commit log file to master
 *   a2a3af6 (HEAD, AC) Merge branch 'BC' into AC
 |\  
 | *   aba2e5d (BC) Merge branch 'B1' into BC
