@@ -49,7 +49,6 @@ branch a2 brach b1
 * | 8fa4259 add A to test file
 |/  
 * 27d5ff2 add test
-
 *   a2a3af6 (HEAD, AC) Merge branch 'BC' into AC
 |\  
 | *   aba2e5d (BC) Merge branch 'B1' into BC
