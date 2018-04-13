@@ -1,0 +1,25 @@
+*   ebd08f8 Merge branch 'A22' into A21
+|\  
+| *   69985e6 Merge branch 'B2' into A22
+| |\  
+| | * 8bfa9f5 add B2 to test file
+| * | 3bf594f add A22 to test file
+* | |   aac79ea Merge branch 'A1' into A21
+|\ \ \  
+| * | | a29d569 add A1 to test file
+* | | | 12f83ef add A21 to test file
+| |/ /  
+|/| |   
+* | | c1dd26c fix bug
+* | |   a8c5808 merge A2 with B1
+|\ \ \  
+| * | | ce7ca5d add B1 to test file
+| | |/  
+| |/|   
+| * | 6836239 add B to test file
+* | | 80e02b8 add A2 to test file
+| |/  
+|/|   
+* | 8fa4259 add A to test file
+|/  
+* 27d5ff2 add test
